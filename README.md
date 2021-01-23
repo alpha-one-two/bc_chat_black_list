@@ -1,2 +1,1 @@
-# bc-chat-list
-名單
+# bc-list
